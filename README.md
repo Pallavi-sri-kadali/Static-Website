@@ -1,6 +1,6 @@
 # 🌍 Travel Website
 
-A simple and responsive static travel website built using HTML, CSS, and Flexbox. This project showcases beautiful destinations, user-friendly design, and mobile responsiveness.
+A simple and responsive static travel website built using the languages HTML, CSS, and Flexbox. This project showcases beautiful destinations, user-friendly design, and mobile responsiveness.
 
 ## 🚀 Features
 
